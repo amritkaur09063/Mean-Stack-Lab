@@ -1,0 +1,21 @@
+{
+  "name": "mean_tutorial",
+  "version": "1.0.0",
+  "description": "this ia basic tutoial example for meanstack",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mean",
+    "mongo",
+    "express",
+    "angular",
+    "nodejs"
+  ],
+  "author": "amrit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
